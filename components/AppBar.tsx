@@ -42,7 +42,7 @@ const MyAppBar: FC = () => {
           <Box sx={{ mr: 2 }}>
             <Image
               alt="logo"
-              src="/../public/logo.png"
+              src="/logo.png"
               layout="fixed"
               width={48}
               height={56}

@@ -27,7 +27,7 @@ const Layout: FC<layoutProps> = ({ children }: any) => (
         width: [900, 1200, 1485],
       }}
     >
-      <Image alt="intro" src="/../public/intro.png" width={1485} height={695} />
+      <Image alt="intro" src="/intro.png" width={1485} height={695} />
       <Box
         sx={{
           position: "absolute",
@@ -93,7 +93,7 @@ const Layout: FC<layoutProps> = ({ children }: any) => (
         width: 1920,
       }}
     >
-      <Image alt="intro" src="/../public/bg.png" width={1920} height={478} />
+      <Image alt="intro" src="/bg.png" width={1920} height={478} />
     </Box>
     <Box
       sx={{
@@ -103,7 +103,7 @@ const Layout: FC<layoutProps> = ({ children }: any) => (
         width: 1920,
       }}
     >
-      <Image alt="intro" src="/../public/line.png" width={1920} height={390} />
+      <Image alt="intro" src="/line.png" width={1920} height={390} />
     </Box>
     <Box
       sx={{
@@ -113,7 +113,7 @@ const Layout: FC<layoutProps> = ({ children }: any) => (
         width: 1920,
       }}
     >
-      <Image alt="intro" src="/../public/line1.png" width={1920} height={390} />
+      <Image alt="intro" src="/line1.png" width={1920} height={390} />
     </Box>
     <Box
       sx={{

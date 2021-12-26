@@ -27,12 +27,7 @@ const Footer: FC = () => (
         }}
       >
         <Grid item>
-          <Image
-            alt="intro"
-            src="/../public/image10.png"
-            width={190}
-            height={38}
-          />
+          <Image alt="intro" src="/image10.png" width={190} height={38} />
         </Grid>
         <Grid
           item
@@ -40,12 +35,7 @@ const Footer: FC = () => (
             width: [73, 90, 110],
           }}
         >
-          <Image
-            alt="intro"
-            src="/../public/image9.png"
-            width={81}
-            height={21}
-          />
+          <Image alt="intro" src="/image9.png" width={81} height={21} />
         </Grid>
         <Grid
           item
@@ -53,12 +43,7 @@ const Footer: FC = () => (
             width: [73, 85, 97],
           }}
         >
-          <Image
-            alt="intro"
-            src="/../public/image11.png"
-            width={81}
-            height={21}
-          />
+          <Image alt="intro" src="/image11.png" width={81} height={21} />
         </Grid>
       </Grid>
       <Grid
@@ -67,12 +52,7 @@ const Footer: FC = () => (
           width: [121, 131, 160],
         }}
       >
-        <Image
-          alt="intro"
-          src="/../public/image14.png"
-          width={141}
-          height={52}
-        />
+        <Image alt="intro" src="/image14.png" width={141} height={52} />
       </Grid>
       <Grid
         item
@@ -80,12 +60,7 @@ const Footer: FC = () => (
           width: [142, 162, 190],
         }}
       >
-        <Image
-          alt="intro"
-          src="/../public/image15.png"
-          width={174}
-          height={47}
-        />
+        <Image alt="intro" src="/image15.png" width={174} height={47} />
       </Grid>
       <Grid
         item
@@ -93,12 +68,7 @@ const Footer: FC = () => (
           width: [140, 140, 200],
         }}
       >
-        <Image
-          alt="intro"
-          src="/../public/image16.png"
-          width={136}
-          height={49}
-        />
+        <Image alt="intro" src="/image16.png" width={136} height={49} />
       </Grid>
       <Grid
         item
@@ -108,12 +78,7 @@ const Footer: FC = () => (
           mr: 2,
         }}
       >
-        <Image
-          alt="intro"
-          src="/../public/image12.png"
-          width={163}
-          height={27}
-        />
+        <Image alt="intro" src="/image12.png" width={163} height={27} />
       </Grid>
       <Grid
         item
@@ -121,12 +86,7 @@ const Footer: FC = () => (
           width: [120, 135, 160],
         }}
       >
-        <Image
-          alt="intro"
-          src="/../public/image13.png"
-          width={141}
-          height={60}
-        />
+        <Image alt="intro" src="/image13.png" width={141} height={60} />
       </Grid>
     </Grid>
   </Box>
